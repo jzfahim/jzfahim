@@ -1,15 +1,15 @@
-<h3 align="Left">Hey there, I am Mohammad Fahim, A passionate Web developer and a learner from Bangladesh</h3>
+<h3 align="Left">Hi there! I’m Mohammad Fahim, a passionate web developer and enthusiastic learner from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **my skills and I am doing some small projects**
+- 🌱 Currently, I'm diving deep into **MySQL and WebSocket technologies, expanding my technical toolkit, and exploring innovative ways to build robust web applications**
 
-- 🌱 I’m currently learning **My SQL and WebSocket**
+- 🔭 Current Focus: I’m sharpening my skills by working on small, meaningful projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/jzfahim](https://github.com/jzfahim)
+- 👨‍💻 Explore my projects on GitHub: **github.com/jzfahim**
+  
+- 💬 I'm particularly enthusiastic about discussing: **Api, Leetcode, Data structure, and Football**
 
-- 💬 Ask me about **Api, Leetcode, Data structure, and Football**
-
-- 📫 How to reach me **fahimislam111238@gmail.com**
-
+- 📫 Want to connect or discuss tech? Feel free to reach out via email at **fahimislam111238@gmail.com**
+- 
 - ⚡ Fun fact **I have a good sense of humor.**
 
 <h3 align="left">Connect with me:</h3>
