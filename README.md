@@ -4,7 +4,7 @@
 
 - 🔭 Current Focus: **I’m sharpening my skills by working on small, meaningful projects.**
 
-- 👨‍💻 Explore my projects on GitHub [https://github.com/jzfahim](github.com/jzfahim)
+- 👨‍💻 Explore my projects on GitHub [https://github.com/jzfahim](https://github.com/jzfahim)
   
 - 💬 I'm particularly enthusiastic about discussing: **Api, Leetcode, Data structure, and Football**
 
